@@ -1,0 +1,20 @@
+# Auto-Settle AI environment (Python 3.10+)
+# Core perception / engine
+opencv-python>=4.8.0
+numpy>=1.24.0
+Pillow>=10.0.0
+# Web app
+gradio>=4.0.0
+# Qwen3-VL language layer
+torch>=2.1.0
+transformers>=4.40.0
+bitsandbytes>=0.43.0
+huggingface-hub>=0.24.0
+# YOLO parts / damage detectors
+ultralytics>=8.3.0
+# Data / tooling
+pandas>=2.1.0
+requests>=2.31.0
+python-pptx>=1.0.0
+psutil>=5.9.0
+PyYAML>=6.0.0

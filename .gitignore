@@ -1,0 +1,17 @@
+env/
+__pycache__/
+*.pt
+*.onnx
+*.zip
+.env
+data/
+datasets/
+yolo/
+runs/
+backup/
+run2/
+test_photos/heldout/
+~$*
+.pytest_cache/
+.vscode/
+.idea/
